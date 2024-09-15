@@ -6,4 +6,4 @@ print(current_time.strftime("%m/%d/%y"))
 
 print(current_time.strftime("%B %d, %Y"))
 
-print(current_time.strftime("B, %d. %Y %I: %M %p"))
+print(current_time.strftime("%B, %d. %Y %I: %M %p"))
