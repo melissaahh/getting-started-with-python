@@ -42,7 +42,7 @@ How can I help you?
     elif user_command == "3":
         print("\nYour to-do list")
         print(f"\n {assistant.get_todos()}")
-      # Get Birthday
+    # Get Birthday
     elif user_command == "4":
         print("Your birthday contacts: \n")
         for name in assistant.get_birthdays():
